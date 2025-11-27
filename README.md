@@ -1,13 +1,9 @@
-Claro! Aqui está **todo o texto do README.md**, completo, organizado e pronto para você colar no arquivo que criou.
-
-👉 **Copie tudo exatamente como está abaixo**
-e cole dentro do seu `README.md`.
 
 ---
 
-# 📄 **README.md (PRONTO PARA COLAR)**
+# 📄 **README.md **
 
-```md
+```
 # 🔐 JWT Auth Demo  
 Demonstração completa de autenticação JWT com **Node.js/Express** no backend e **React** no frontend.  
 O projeto implementa login, geração de token, armazenamento no front, middleware para rota protegida e testes manuais de integração.
@@ -174,21 +170,3 @@ Retorna (se válido):
 * Hooks (useState)
 
 ---
-
-# 📜 Licença
-
-Projeto acadêmico — livre para uso.
-
-```
-
----
-
-# ✅ Pronto para uso!
-Se quiser, posso:
-
-📦 Criar o arquivo README.md pronto para download  
-📌 Inserir no seu projeto no canvas  
-🎨 Criar uma versão estilizada com emojis e badges adicionais  
-
-Quer alguma dessas opções?
-```
