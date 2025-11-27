@@ -17,13 +17,14 @@ client/ → Frontend (React)
 
 ---
 
+---
+
 # 🚀 Como Rodar o Projeto
 
 ## 1️⃣ Clonar o repositório
 ```sh
 git clone https://github.com/SEU-USUARIO/jwt-auth-demo.git
 cd jwt-auth-demo
-````
 
 ---
 
