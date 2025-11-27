@@ -1,32 +1,17 @@
+# JWT Auth Demo
 
-# 📄 **README.md**
-```md
-# 🔐 JWT Auth Demo  
-Demonstração completa de autenticação JWT com **Node.js/Express** no backend e **React** no frontend.  
-O projeto implementa login, geração de token, armazenamento no front, middleware para rota protegida e testes manuais de integração.
+Projeto contendo autenticação JWT com **Node.js/Express** no backend e **React** no frontend.  
+Inclui login, geração de token, armazenamento no front e rota protegida.
 
 ---
 
-# 📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
-```
+
 
 jwt-auth-demo/
-│
-├── server/        # Backend Node.js + Express
-│   ├── server.js
-│   ├── authMiddleware.js
-│   ├── package.json
-│   ├── .env
-│   └── .env.example
-│
-└── client/        # Frontend React
-├── src/
-│   ├── App.js
-│   ├── Login.js
-│   ├── Private.js
-│   └── index.js
-└── package.json
+server/ → Backend (Node.js)
+client/ → Frontend (React)
 
 ````
 
