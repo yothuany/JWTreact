@@ -1,12 +1,5 @@
-Claro! Aqui está **todo o texto do README.md**, completo, organizado e pronto para você colar no arquivo que criou.
 
-👉 **Copie tudo exatamente como está abaixo**
-e cole dentro do seu `README.md`.
-
----
-
-# 📄 **README.md (PRONTO PARA COLAR)**
-
+# 📄 **README.md**
 ```md
 # 🔐 JWT Auth Demo  
 Demonstração completa de autenticação JWT com **Node.js/Express** no backend e **React** no frontend.  
